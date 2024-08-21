@@ -25,7 +25,7 @@ This project is a browser-based version of the popular 2048 puzzle game. It's cr
 
 ## How to Contribute?
 
-1. Clone this repository (`git clone https://github.com/your_username/2048-game.git`).
+1. Clone this repository (`git clone https://github.com/isinsuatay/2048-GAME.git`).
 2. Create a new branch (`git checkout -b new_branch`).
 3. Make changes you want and validate them (`git commit -am 'Add new feature'`).
 4. Push your new branch to your repository (`git push origin new_branch`).
